@@ -1,2 +1,2 @@
 # starsightwatt
-it is a basic repository
+this is a basic repository
